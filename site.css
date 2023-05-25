@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap");
+
+/* Making the website set on default and setting the font */
+body, button {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+}
+/* Border css on the side bars for distinction */
+.sideinfo {
+  border-radius: 10%;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+}
+/* Navigation bar color set */
+.navbar {
+  background-color: #E5F1ED;
+}
