@@ -11,3 +11,6 @@ Resources:
 - script.js
 - site.css
 - connect.php
+
+
+# Note: HTML files can be also considered as PHP files to work with the database using connect.php
