@@ -10,3 +10,4 @@ Order of website sequence:
 Resources:
 - script.js
 - site.css
+- connect.php
